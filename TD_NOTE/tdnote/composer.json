@@ -1,5 +1,5 @@
 {
-    "name": "factcli",
+    "name": "tdnote",
     "type" : "project",
 
     "require":{
@@ -10,7 +10,7 @@
 
     "autoload":{
 	"psr-4": {
-	    "factcli\\" : "src/"
+	    "tdnote\\" : "src/"
 	}
     }
 }
